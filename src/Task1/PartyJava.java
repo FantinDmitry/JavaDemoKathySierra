@@ -9,6 +9,7 @@ public class PartyJava {
         Button b = new Button("Ваша ставка");
         Button c = new Button("Сбросить");
         Panel p = new Panel();
+        p.add(I);
 
         // Ещё код...
 
