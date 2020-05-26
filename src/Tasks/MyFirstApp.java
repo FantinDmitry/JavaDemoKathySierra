@@ -1,4 +1,4 @@
-package Task1;
+package Tasks;
 
 public class MyFirstApp {
     public static void main(String[] args) {
