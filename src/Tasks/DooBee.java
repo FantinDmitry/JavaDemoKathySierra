@@ -7,7 +7,7 @@ public class DooBee {
             System.out.print("Doo");
             System.out.print("Bee");
             x = x + 1;
-        }
+        }   // Дописать не достающий код.
         if (2 == 2); {
         System.out.print("Do");
         }

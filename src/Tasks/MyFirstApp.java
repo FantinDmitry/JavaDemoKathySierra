@@ -6,3 +6,4 @@ public class MyFirstApp {
         System.out.println("миром");
     }
 }
+// Класс с методом Main.

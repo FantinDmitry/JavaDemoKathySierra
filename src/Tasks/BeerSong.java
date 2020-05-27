@@ -18,7 +18,7 @@ public class BeerSong {
             if (beerNum > 0) {
                 System.out.println(beerNum + "" + word + "пива на стене");
             } else {
-                if (beerNum == 0);
+                if (beerNum == 0); // Добавление кода.
                 System.out.println("Нет бутылок пива на стене");
 
             } // Конец else
