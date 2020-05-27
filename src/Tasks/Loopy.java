@@ -6,10 +6,13 @@ public class Loopy {
         System.out.println("Перед началом цикла");
         while (x < 4) ;
         {
-            System.out.println("внутри цикла");
-            System.out.println("Значение х равно" + x);
+            System.out.println("Внутри цикла");
+            System.out.println( "Значение х равно" + x);
             x = x + 1;
         }
         System.out.println("После окончания цикла");
     }
 }
+//Java Loopy
+// Перед началом цикла
+//
