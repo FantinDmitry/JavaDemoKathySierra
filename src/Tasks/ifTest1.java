@@ -4,7 +4,7 @@ public class ifTest1 {
     public static void main(String[] args) {
         int x = 3;
         if (x == 3) {
-            System.out.println("x должен ровняться 3");
+            System.out.println(" х должен равняется 3");
 
         }
     }
